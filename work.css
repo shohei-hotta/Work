@@ -4,3 +4,10 @@ header {
   margin: auto;
   height: 60px;
 }
+.contact_form {
+  display: flex;
+  justify-content: center;
+}
+#submit_button:hover {
+  opacity: 0.5;
+}
